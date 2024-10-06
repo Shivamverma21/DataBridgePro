@@ -1,0 +1,11 @@
+# Ignore build directories
+/cmake-build-debug/
+/CMakeFiles/
+*.o
+*.exe
+*.bin
+
+# Ignore IDE specific files
+*.iml
+.idea/
+.vscode/
